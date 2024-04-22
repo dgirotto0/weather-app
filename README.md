@@ -13,20 +13,11 @@ A modern weather app developed with Flutter and connected to the **OpenWeather A
 
 ## 📌 Screenshots and Video
 
-### Screenshots
-
+### 📌 Screenshots
 <div style="display:flex; justify-content:center;">
+    <img src="./screenshots/Screen_recording_20240419_162111.mp4" alt="Video" width="250">
     <img src="./screenshots/Screenshot_20240419_162147.png" alt="Alaska" width="250">
     <img src="./screenshots/Screenshot_20240419_162328.png" alt="Welcome" width="250">
-</div>
-
-### Video
-
-<div style="display:flex; justify-content:center;">
-    <video width="320" height="240" controls>
-        <source src="./screenshots/Screen_recording_20240419_162111.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
 </div>
 
 

@@ -3,7 +3,7 @@
 A modern weather app developed with Flutter and connected to the **OpenWeather API**. It features a beautiful design and provides weather data, including current conditions, minimum and maximum temperatures, chance of rain, and wind speed. Additionally, it uses the Google Places API to fetch images for locations based on the search text.
 
 ## 📑Table of Contents
-- [Screenshots](#-screenshots-and-video)
+- [Screenshots](#-screenshots)
 - [Dependencies](#-dependencies)
 - [Installation](#-installation)
 - [Features](#-features)
@@ -11,9 +11,8 @@ A modern weather app developed with Flutter and connected to the **OpenWeather A
 - [Usage](#-usage)
 - [Known Issues](#-known-issues)
 
-## 📌 Screenshots and Video
-
 ## 📌 Screenshots
+
 <div style="display:flex; justify-content:center;">    
     <img src="./screenshots/Screenshot_20240419_162147.png" alt="Alaska" width="250">
     <img src="./screenshots/Screenshot_20240419_162328.png" alt="Welcome" width="250">

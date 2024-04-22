@@ -18,7 +18,7 @@ A modern weather app developed with Flutter and connected to the **OpenWeather A
     <img src="./screenshots/Screenshot_20240419_162328.png" alt="Welcome" width="250">
 </div>
 
-- [Assista ao vídeo](./screenshots/Screen_recording_20240419_162111.mp4)
+- [Watch the video](./screenshots/Screen_recording_20240419_162111.mp4)
 
 
 ## 🔗 Dependencies
